@@ -30,3 +30,4 @@ cd futsa-finalproject
 yarn dev
 yarn start:mob
 ```
+
